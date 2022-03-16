@@ -1442,8 +1442,8 @@ img {
 .thumbnail a > img,
 .thumbnail > img {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 250px;
+  height: 250px;
 }
 
 .img-rounded {
