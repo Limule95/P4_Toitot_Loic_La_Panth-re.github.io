@@ -8085,6 +8085,7 @@ button.close {
 }
 
 .center-block {
+  width: 100px;
   display: block;
   margin-right: auto;
   margin-left: auto;
